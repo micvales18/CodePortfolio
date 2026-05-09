@@ -24,7 +24,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # read in data
-df = pd.read_csv(r"C:\Users\Micaelan Valesky\Downloads\ratings_Electronics.csv")
+df = pd.read_csv(r"REDACTED")
 # check what the dataframe looks like
 df.head()
 
